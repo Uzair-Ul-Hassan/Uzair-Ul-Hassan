@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently learning AWS and Rust.<br>I'm currently working as a Frontend Developer at Thermelgy.<br>How to reach me uzairulhassan24@gmail.com
+Hey, I'm Uzair. <br/>Currently working as a Full Stack Developer at EnergyEta. <br/> Learning AWS and Rust.<br>How to reach me uzairulhassan24@gmail.com
 
 
 ## 🌐 Socials:
